@@ -1,4 +1,4 @@
-☕ Cafe Management System
+Cafe Management System
 
 A desktop-based Cafe Management System built using **Java** and **MySQL**, designed to streamline cafe operations such as order processing, billing, and customer handling. Developed using NetBeans IDE, this system features a clean user interface, real-time order updates, and integrated inventory tracking.
 
